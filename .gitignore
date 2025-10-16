@@ -52,3 +52,10 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/Reserva de viajes/CopilotIndices/17.14.1290.42047
+/.vs/Reserva de viajes/FileContentIndex
+/.vs/Reserva de viajes/v17
+/Reserva de viajes/Properties
+*.config
+*.csproj
+*.sln
